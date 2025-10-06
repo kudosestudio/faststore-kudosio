@@ -8,7 +8,7 @@ module.exports = {
     },
 
     // Theming
-    theme: 'custom-theme',
+    theme: 'soft-blue',
 
     // Ecommerce Platform
     platform: 'vtex',
@@ -46,7 +46,7 @@ module.exports = {
     },
 
     // Production URLs
-    storeUrl: "https://kudosio.b.vtex.app/",
+    storeUrl: "https://kudosio.vtex.app/",
     secureSubdomain: "https://secure.vtexfaststore.com/",
     checkoutUrl: "https://secure.vtexfaststore.com/checkout",
     loginUrl: "https://secure.vtexfaststore.com/api/io/login",
